@@ -67,7 +67,9 @@ A magic tee is normally characterised by two quantities:
 
 ## Observation (Measurement of isolation between E and H arms)
 
-*(Include your own table relevant to the experiment.)*
+
+<img width="1115" height="190" alt="image" src="https://github.com/user-attachments/assets/4d240509-4ca1-4306-9630-f386b45467b1" />
+
 
 ## Precautions
 
@@ -76,5 +78,5 @@ A magic tee is normally characterised by two quantities:
 * Take the observations carefully.
 
 ## Conclusion
-
-*(Write your own.)*
+Isolation between E and H arms (dB) = (A1 – A2) dB Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
+Thus To measure isolation between E and Harms of the magic tee and Demonstrate 3 dB power division in the arm of magic tree is done.
